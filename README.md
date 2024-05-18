@@ -1,2 +1,2 @@
 # djangoproject
-django öğrenirken yaptığım projeleri sizlerle paylaşıyorum
+Hepinize merhaba bu repoda django öğrenirken yapmaya çalıştığım projeleri sizlerle paylaşıyorum 
